@@ -1,2 +1,2 @@
 # test-repo
-test repo description
+test repo description.
